@@ -498,6 +498,7 @@ input, select, textarea {
 		.row.gtr-150 {
 			margin-top: -75px;
 			margin-left: -75px;
+			margin-bottom: 1em;
 		}
 
 			.row.gtr-150 > * {
